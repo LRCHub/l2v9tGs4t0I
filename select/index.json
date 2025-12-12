@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "You Came Back",
+  "base_artist": "KANDYTOWN",
+  "createdAt": "2025-12-12T16:03:21.695782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Came Back",
+      "artist": "Pete Townshend",
+      "has_synced": false,
+      "path": "select/01_You_Came_Back_Pete_Townshend.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If You Came Back From Heaven",
+      "artist": "Lorrie Morgan",
+      "has_synced": true,
+      "path": "select/02_If_You_Came_Back_From_Heaven_Lorrie_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Came Back - Demo",
+      "artist": "Pete Townshend",
+      "has_synced": false,
+      "path": "select/03_You_Came_Back_-_Demo_Pete_Townshend.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If You Came Back to Me",
+      "artist": "Bowling for Soup",
+      "has_synced": false,
+      "path": "select/04_If_You_Came_Back_to_Me_Bowling_for_Soup.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "why you came back ?",
+      "artist": "Hax!",
+      "has_synced": true,
+      "path": "select/05_why_you_came_back_Hax!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Came Back",
+      "artist": "Pete Townshend",
+      "has_synced": false,
+      "path": "select/06_You_Came_Back_Pete_Townshend.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If You Came Back (Demo)",
+      "artist": "Eddie Flint",
+      "has_synced": true,
+      "path": "select/07_If_You_Came_Back_(Demo)_Eddie_Flint.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "why you came back ?",
+      "artist": "Hax!",
+      "has_synced": false,
+      "path": "select/08_why_you_came_back_Hax!.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Came Back (feat. KEIJU, IO, Holly Q & Gottz)",
+      "artist": "KANDYTOWN",
+      "has_synced": true,
+      "path": "select/09_You_Came_Back_(feat._KEIJU,_IO,_Holly_Q_&_Gottz)_KANDYTOWN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Came Back",
+      "artist": "Heart Broken Kid",
+      "has_synced": false,
+      "path": "select/10_You_Came_Back_Heart_Broken_Kid.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Came Back (demo)",
+      "artist": "The Who",
+      "has_synced": false,
+      "path": "select/11_You_Came_Back_(demo)_The_Who.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You Came Back (feat. KEIJU, IO, Holly Q & Gottz)",
+      "artist": "KANDYTOWN",
+      "has_synced": false,
+      "path": "select/pl_01_You_Came_Back_(feat._KEIJU,_IO,_Holly_Q_&_Gottz)_KANDYTOWN.txt"
+    }
+  ]
+}
